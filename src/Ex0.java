@@ -1,5 +1,5 @@
 //32336186:ID
-// Gashaw ambaw
+// Gashaw Ambaw
 
 /**
  * **Input(n>4 ^ evenNumber)**           // we use this "n" for all the program
